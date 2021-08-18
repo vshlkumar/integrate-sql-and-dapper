@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIApplication</name>
+    </assembly>
+    <members>
+        <member name="M:NewAPIApplication.Controllers.BooksController.GetBooksFromMongo">
+            <summary>
+            Get the Books
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NewAPIApplication.Controllers.BooksController.AddBook(API.Models.Models.Book)">
+            <summary>
+            Add new Book
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NewAPIApplication.Controllers.BooksController.GetBooksFromSql(System.Int32)">
+            <summary>
+            Get the book from sql server based on Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

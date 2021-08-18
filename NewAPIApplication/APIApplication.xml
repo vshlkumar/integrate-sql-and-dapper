@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIApplication</name>
+    </assembly>
+    <members>
+        <member name="M:NewAPIApplication.Controllers.BooksController.GetBooks">
+            <summary>
+            Get the Books
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
